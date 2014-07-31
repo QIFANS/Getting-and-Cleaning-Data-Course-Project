@@ -1,7 +1,6 @@
 # Code Book #
 
-| nrow | feature  | value  |
-| --  | -------  | ------  |
+| nrow | feature  | value  || --  | -------  | ------  |
 | 1   | subject  | **integer: 1..30**  |
 | 2   | activity  | **WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING**  |
 | 3   | TimeforBodyAccelerationMean()inX  | **float**  |
